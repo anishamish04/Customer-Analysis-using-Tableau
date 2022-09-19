@@ -7,7 +7,7 @@ This is a Descriptive Customer Analysis Dashboard using Tableau.
 
 
 
-![Revenue_Percent_per_Region](https://user-images.githubusercontent.com/35908804/191095532-3ed772bf-dfef-4402-8c2b-aa2246a9e40e.jpg)
+![Revenue_per_Category](https://user-images.githubusercontent.com/35908804/191095588-837bdfe8-1c39-4713-97d4-050f139526c4.jpg)
 
 
 
@@ -19,12 +19,11 @@ This is a Descriptive Customer Analysis Dashboard using Tableau.
 
 
 
-![Revenue_per_Category](https://user-images.githubusercontent.com/35908804/191095588-837bdfe8-1c39-4713-97d4-050f139526c4.jpg)
-
-
-
 ![Revenue_per_Age](https://user-images.githubusercontent.com/35908804/191095603-e96e49bb-0ab8-40f7-b6c4-dca3f6a88eca.jpg)
 
+
+
+![Revenue_Percent_per_Region](https://user-images.githubusercontent.com/35908804/191095532-3ed772bf-dfef-4402-8c2b-aa2246a9e40e.jpg)
 
 
 ![Quality_Discount_correlation](https://user-images.githubusercontent.com/35908804/191095622-de7f3a3c-8bf3-496d-bf76-9a0eabbee451.jpg)
